@@ -1,0 +1,11 @@
+<!--Simple Ivy file-->
+
+<ivy-module version="2.0">
+
+	<info organisation="TnZ" module="calculator"/>
+
+	<dependencies>
+		<dependency org="junit" name="junit" rev="+"/>
+	</dependencies>
+
+</ivy-module>
